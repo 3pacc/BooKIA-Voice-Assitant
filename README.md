@@ -1,7 +1,5 @@
 <h1 style="text-align: center;">BooKIA: The Future of Moroccan Hospitality</h1>
 
-<p style="text-align: center;"><i>Where Innovation Meets Traditional Hospitality</i></p>
-
 ---
 
 ## 🌟 The Challenge We're Solving  
