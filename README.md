@@ -1,5 +1,3 @@
-![Banner](./assets/banner.jpg)
-
 <h1 style="text-align: center;">BooKIA: The Future of Moroccan Hospitality</h1>
 
 <p style="text-align: center;"><i>Where Innovation Meets Traditional Hospitality</i></p>
@@ -105,11 +103,6 @@ Search Form 🔍: Collects details like destination, check-in/check-out dates, r
 
 Call Button 📞: A button for quick contact with customer support.
 
-<img src="./assets/ui_screen.png" alt="System Architecture" style="max-width: 80%; height: auto;">
-
----
-## 🎥 Live Demonstration  
-[Click to watch our Demo Video](https://drive.google.com/file/d/1IcTN9_Mo7aQobvdYA-oxFy0eexrtfwKk/view?usp=share_link)
 ---
 
 ## 📐 System Architecture  
@@ -130,15 +123,4 @@ BooKIA is more than just a hotel system; it's adaptable across various sectors:
 - Multi-modal booking for flights, trains, and buses.  
 - Real-time travel updates and baggage tracking.  
 
----
-## 👥 Team
-
-<img src="./assets/team.png" alt="System Architecture" style="max-width: 80%; height: auto;">
-
----
-<p style="text-align: center;"><i>Join us in shaping the future of Moroccan hospitality.</i></p>
-
-<p style="text-align: center;"><i>Developed with passion by the BooKIA Team ❤️ || Participating in AI Crafters Voic AI Agents Hackathon</i></p>
-
-<p style="text-align: center;"><i></i></p>
 
